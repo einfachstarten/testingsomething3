@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "project_type": "Unknown",
+  "dependencies": {},
+  "files": {
+    "README.md": {
+      "path": "/Users/marcus.braun/repos/einfachstarten/testingsomething3/README.md",
+      "relative_path": "README.md",
+      "size": 239,
+      "extension": ".md",
+      "is_code": true,
+      "content": "# testingsomething3\n\nwebsite\n\n## Project Information\n\n- Created: 2026-01-19T15:52:46.709747\n- Managed by: AI Dev Assistant\n\n## Getting Started\n\nThis project is managed using AI Dev Assistant for automated code generation and PR workflows.\n",
+      "content_hash": "0b80fc3dcd4043a0846849ccb4692370",
+      "lines": 13
+    }
+  }
+}
